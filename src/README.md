@@ -34,6 +34,6 @@
 
 ## Contact
 Vuong Bach Doan - [@facebook](https://www.facebook.com/vuong.bachdoan.940/) - vuongbachdoan@gmail.com - 0763101327
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/vuongbachdoan](https://github.com/vuongbachdoan)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
