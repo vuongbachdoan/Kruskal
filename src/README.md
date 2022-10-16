@@ -30,7 +30,6 @@
     <li>Add edge to spanning tree</li>
     <li>Change parent of vertex1 to vertex2</li>
 </ol>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
 Vuong Bach Doan - [@facebook](https://www.facebook.com/vuong.bachdoan.940/) - vuongbachdoan@gmail.com - 0763101327
