@@ -14,11 +14,11 @@ public class Main {
         });
     }
 
-    public static int findRoot(int weight) {
-        while(weight != parents[weight]){
-            weight = parents[weight];
+    public static int findRoot(int vertex) {
+        while(vertex != parents[vertex]){
+            vertex = parents[vertex];
         }
-        int root = weight;
+        int root = vertex;
         return root;
     }
 
